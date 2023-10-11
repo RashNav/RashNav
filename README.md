@@ -107,6 +107,18 @@
     </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rashnav&show_icons=true&locale=en" alt="rashnav" /></p>
+<!-- Most used languages  -->
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashnav&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="top-langs" />
+</p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rashnav&" alt="rashnav" /></p>
+<!-- Streak  -->
+<a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=rashnav&theme=dark&hide_border=true" alt="GitHub Streak" />
+</a>
+
+<!-- Stats
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=rashnav&show_icons=true&locale=en" alt="rashnav" />
+</p>
+-->
